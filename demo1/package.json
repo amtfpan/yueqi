@@ -1,0 +1,9 @@
+{
+  "name": "yueqi-bathroom",
+  "version": "1.0.0",
+  "description": "粤启卫浴企业励志主题界面",
+  "scripts": {
+    "dev": "serve -l 3000",
+    "build": "echo 'Build complete'"
+  }
+}
