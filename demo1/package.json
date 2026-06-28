@@ -1,0 +1,21 @@
+{
+  "name": "yueqi-bathroom",
+  "version": "1.0.0",
+  "description": "粤启卫浴企业励志主题界面 - 静态网站",
+  "author": "粤启卫浴",
+  "license": "MIT",
+  "keywords": [
+    "yueqi-bathroom",
+    "企业网站",
+    "励志主题",
+    "静态网站"
+  ],
+  "scripts": {
+    "dev": "npx serve -l 3000",
+    "start": "npx serve -l 3000",
+    "build": "echo 'Static site build complete. Ready for deployment.'"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}

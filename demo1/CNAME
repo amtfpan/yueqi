@@ -1,0 +1,3 @@
+# 如需使用自定义域名，请在此填入您的域名
+# 例如：www.yueqi-bathroom.com
+# 然后在您的域名 DNS 中添加 CNAME 记录指向您的 GitHub 用户名.github.io
